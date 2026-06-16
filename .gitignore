@@ -1,0 +1,12 @@
+# مستندات المصدر الخاصة (العقد، السجلات التجارية، الملفات الأصلية) — لا تُرفع
+assets of smart system logo ducoments and profile of services/
+
+# إعدادات التطوير المحلية
+.claude/
+
+# ملفات النظام
+desktop.ini
+Thumbs.db
+.DS_Store
+*.tmp
+_tmp*
